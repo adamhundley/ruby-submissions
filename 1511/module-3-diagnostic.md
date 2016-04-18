@@ -1,6 +1,6 @@
 ## Module 3 Diagnostic
 
-* Adam Hundley:
+* Adam Hundley: https://github.com/adamhundley/module_3_diagnostic
 * Alexis Navarrete:
 * Adrienne Domingus:
 * Allan Blair:
